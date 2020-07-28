@@ -35,11 +35,12 @@ border-bottom:1px solid #ccc;
 h2{
 	color: rgb(111,127,122);
 	font-size: 2em;
-	margin: 0 0 20px 0;
+	
 }
  p{
 	color: #555;
 	font-size: 1em;
+	margin: 0 0 20px 0;
 }
 #featured img{
 	border: 5px solid gray;
