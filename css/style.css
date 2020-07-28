@@ -20,6 +20,6 @@ body {
 
 /* Write all remaining styles here */
 h1{
-	font-weight: bold;
+	font-weight: normal;;
 	font-size: 5em;
 }
