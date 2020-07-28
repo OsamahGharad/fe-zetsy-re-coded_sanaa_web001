@@ -33,7 +33,7 @@ font-family: 'Baskerville', serif;
 border-bottom:1px solid #ccc;
 }
 h2{
-	font-weight: bold;
+	color: rgb(111,127,122);
 }
 #featured img{
 	border: 5px solid gray;
