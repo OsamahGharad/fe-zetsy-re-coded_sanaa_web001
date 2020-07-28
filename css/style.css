@@ -19,3 +19,7 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+	font-weight: bold;
+	font-size: 3em;
+}
