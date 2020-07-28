@@ -35,3 +35,6 @@ border-bottom:1px solid #ccc;
 h2{
 	font-weight: bold;
 }
+#featured img{
+	border: 5px solid gray;
+}
