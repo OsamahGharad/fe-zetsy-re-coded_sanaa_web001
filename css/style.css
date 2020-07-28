@@ -46,6 +46,9 @@ h2{
 }
 
 /*section styles*/
+header a{
+	color: rgb(152,173,166);
+}
 #featured img{
 	border: 5px solid gray;
 }
