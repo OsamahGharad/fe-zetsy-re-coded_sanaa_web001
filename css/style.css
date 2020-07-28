@@ -64,7 +64,7 @@ header a:hover {
 	text-decoration: none;
 }
 #press img{
-	border: 5px solid gray;
+	border: 5px #ccc solid;
 	padding: 1px;
 }
 #press img :hover{
